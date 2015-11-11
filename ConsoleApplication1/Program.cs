@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             int square = Utils.getSquareRect(44, 59);
-            Console.WriteLine("New vers square:" + square);
+            Console.WriteLine("square:" + square);
 
             Console.WriteLine("press any key...");
             Console.ReadKey(); 
